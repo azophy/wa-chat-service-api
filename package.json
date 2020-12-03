@@ -19,6 +19,10 @@
   "author": "Abdurrahman Shofy Adianto",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys"
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
