@@ -1,0 +1,24 @@
+{
+  "name": "bailey-api",
+  "version": "0.1.0",
+  "description": "Service API for bailey whatsapp web API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-web",
+    "api",
+    "automation",
+    "chat",
+    "notification"
+  ],
+  "author": "Abdurrahman Shofy Adianto",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys"
+  }
+}
